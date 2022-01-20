@@ -1,6 +1,6 @@
 {
   "name": "vue-identicon",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build --target lib --name identicon ./src/components/index.js"
